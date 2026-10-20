@@ -9,6 +9,7 @@ WHS4_Erelem은 화이트햇 스쿨 4기 팀 프로젝트 **에레렘**의 프로
 
 ```text
 WHS4_Erelem/
+│ 
 ├── README.md
 ├── 가이드라인/
 │   └──ARTINEX Guidelines(v26.10.12).pdf
